@@ -1,25 +1,25 @@
 site_name: blogs
 
-# theme:
-#   name: "readthedocs"
-#   palette:
-#     # Light mode
-#     - media: "(prefers-color-scheme: light)"
-#       scheme: default
-#       primary: teal
-#       accent: indigo
-#       toggle:
-#         icon: material/toggle-switch-off-outline
-#         name: Switch to dark mode
+theme:
+  name: "readthedocs"
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
 
-#     # Dark mode
-#     - media: "(prefers-color-scheme: dark)"
-#       scheme: slate
-#       primary: teal
-#       accent: blue
-#       toggle:
-#         icon: material/toggle-switch
-#         name: Switch to light mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 # theme:
 #   name: readthedocs
@@ -27,9 +27,6 @@ site_name: blogs
 #   hljs_languages:
 #     - yaml
 #     - rust
-
-theme:
-  name: gitbook
 
 # Extensions
 markdown_extensions:
