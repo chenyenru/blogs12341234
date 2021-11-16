@@ -7,7 +7,7 @@
 
 
 ## Progress Notes
-- [[1101_to_1116]]
+- [[1101_to_1116 Planning]]
 
 ## Todo
 - [[Todo]]
