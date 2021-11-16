@@ -1,7 +1,7 @@
 site_name: blogs
 
 theme:
-  name: "materials"
+  name: "readthedocs"
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
