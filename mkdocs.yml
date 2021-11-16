@@ -39,8 +39,4 @@ markdown_extensions:
 
 plugins:
   - search
-<<<<<<< HEAD
   - roamlinks
-=======
-  - roamlinks 
->>>>>>> 7eb7d7bd67a4587b7f162324b789ba860474ee92
