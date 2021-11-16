@@ -1,9 +1,8 @@
 site_name: obsidian-mkdocs template
 
 theme:
-    name: 'material'
-    palette:
-
+  name: "material"
+  palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -32,12 +31,12 @@ markdown_extensions:
   # - pymdownx.magiclink
   # - pymdownx.tasklist:
   #     custom_checkbox: true
-#  - pymdownx.emoji:
-#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #  - pymdownx.emoji:
+  #      emoji_generator: !!python/name:pymdownx.emoji.to_svg
   # - admonition
   - toc:
       permalink: true
 
 plugins:
   - search
-  - roamlinks 
+  - roamlinks
