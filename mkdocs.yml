@@ -21,12 +21,15 @@ site_name: blogs
 #         icon: material/toggle-switch
 #         name: Switch to light mode
 
+# theme:
+#   name: readthedocs
+#   highlightjs: true
+#   hljs_languages:
+#     - yaml
+#     - rust
+
 theme:
-  name: readthedocs
-  highlightjs: true
-  hljs_languages:
-    - yaml
-    - rust
+  name: gitbook
 
 # Extensions
 markdown_extensions:
