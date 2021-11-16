@@ -23,3 +23,4 @@ However, the server seems to be shut down 🤧.
 ![[截圖 2021-11-16 下午10.46.27.png]]
 I was greeted with this and it seems so interesting!
 - [ ] look into what those plots mean
+- [ ] see what log2 means to the data
