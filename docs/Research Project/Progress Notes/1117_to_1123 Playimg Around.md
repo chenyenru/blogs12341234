@@ -24,3 +24,4 @@ However, the server seems to be shut down 🤧.
 I was greeted with this and it seems so interesting!
 - [ ] look into what those plots mean
 - [ ] see what log2 means to the data
+- [ ] 
