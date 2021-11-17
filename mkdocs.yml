@@ -1,4 +1,5 @@
 site_name: blogs
+site_url: https://chenyenru.github.io/blogs/Homepage
 
 theme:
   name: material
