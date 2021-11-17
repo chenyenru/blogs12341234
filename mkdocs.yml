@@ -1,5 +1,6 @@
 site_name: blogs
-site_url: https://chenyenru.github.io/blogs/Homepage
+site_url: https://chenyenru.github.io/blogs
+edit_uri: root/path/docs/
 
 theme:
   name: material
