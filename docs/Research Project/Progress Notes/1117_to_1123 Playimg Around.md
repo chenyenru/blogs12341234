@@ -11,7 +11,26 @@ This week:
 > - [ ] play with TCGA
 >   - [ ] play with GEO
 >   - [ ] try the analysis tools listed in the research paper
+# Definitions for Genetics ([source](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/what-is-functional-genomics/))
+## Functional Genomics 
+>- **Functional genomics**:  focuses on the ==dynamic expression== of gene products in a specific context
+>     -   DNA level (genomics and epigenomics)
+>     -   RNA level (transcriptomics)
+>     -   Protein level (proteomics)
+>     -   Metabolite level (metabolomics)
+>     ![Functional genomics is the study of how the genome, transcripts (genes), proteins and metabolites work together to to produce a particular phenotype|400](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/wp-content/uploads/sites/60/2020/05/Figure01-1024x747.png "Functional genomics is the study of how the genome, transcripts (genes), proteins and metabolites work together to to produce a particular phenotype")
+>- **Phenotype**: the set of observable characteristics of an individual resulting from the interaction of its genotype with the environment.
 
+### Functional genomics case studies
+
+Examples of biological questions that can be tackled using functional genomics experiments are:
+
+-   Why do some cancer drugs only work effectively on a subset of patients with the disease?
+-   Why are some cultivars of rice more resistant to drought than others?
+-   What makes some individuals more susceptible to skin allergies?
+
+
+# Tool
 ## Tool 1: GREIN ❌
 
 ![Figure 1|800](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-43935-8/MediaObjects/41598_2019_43935_Fig1_HTML.png)
