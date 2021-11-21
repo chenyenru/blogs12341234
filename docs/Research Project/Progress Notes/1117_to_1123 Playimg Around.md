@@ -188,7 +188,9 @@ Duration: 20 seconds 😨
 ## Next Week
 Goal for next two week: [[1124_to_1130 SetTopics#Todo]]
 - [ ] look into the journals listed above
+
 - [ ] draft potential research topics for each of them
+
 - [ ] **REMEBER!** to evaluate each of them's practicality
 
 
