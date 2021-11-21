@@ -11,8 +11,8 @@ This week:
 > - [ ] play with TCGA
 >   - [ ] play with GEO
 >   - [ ] try the analysis tools listed in the research paper
-# Definitions for Genetics ([source](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/what-is-functional-genomics/))
-## Functional Genomics 
+# Definitions for Genetics 
+## Functional Genomics [source](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/what-is-functional-genomics/)
 >- **Functional genomics**:  focuses on the ==dynamic expression== of gene products in a specific context
 >     -   DNA level (genomics and epigenomics)
 >     -   RNA level (transcriptomics)
@@ -29,6 +29,11 @@ Examples of biological questions that can be tackled using functional genomics e
 -   Why are some cultivars of rice more resistant to drought than others?
 -   What makes some individuals more susceptible to skin allergies?
 
+## Differential Gene Expression Analysis [source](https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/rna-sequencing/performing-a-rna-seq-experiment/data-analysis/differential-gene-expression-analysis/)
+- taking the normalised read count data and performing statistical analysis to discover quantitative changes in expression levels between experimental groups. For example, we use statistical testing to decide whether, for a given gene, an observed difference in read counts is significant, that is, whether it is greater than what would be expected just due to natural random variation.
+
+![|400](https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/wp-content/uploads/sites/70/2020/09/Fig11-updated-1024x887.png "RNA-seq processing pipeline used to generate gene expression data in Expression Atlas")
+<figure>Figure 2. interesting data pipeline</figure>
 
 # Tool
 ## Tool 1: GREIN ❌
@@ -77,3 +82,19 @@ Need to first transpose the data so that we see how samples are related (and NOT
 ![[截圖 2021-11-21 下午1.53.26.png|500]]
 ![[截圖 2021-11-21 下午1.55.47.png|500]]
 ![[截圖 2021-11-21 下午2.00.30.png|500]]
+
+### Differential Expression with *limma* library
+
+I will first need to do create design matrix (設計矩陣在統計學和機器學習中，是一組觀測結果中的所有解釋變量的值構成的矩陣，常用X表示。設計矩陣常用於一些統計模型，如一般線性模型，方差分析中。). A useful function for that is 
+```r
+model.matrix()
+```
+It creates a design matrix for a column I choose
+
+I was confused with this line
+```r
+design <- model.matrix(~0+sampleInfo$group)
+```
+I didn't understand the ```~0``` that happens before the ```sampleInfo$group```
+
+Thus, I looked up in [StackOverflow](https://stackoverflow.com/questions/12737783/r-tilde-operator-what-does-0a-means) and found that it ensures the y-intercept is 0 -> passes the origin. 
