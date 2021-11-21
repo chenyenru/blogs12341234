@@ -160,3 +160,5 @@ fit2 <- eBayes(fit2)
 
 
 ![[Pasted image 20211121164418.png|500]]
+
+![[Pasted image 20211121165500.png|500]]
