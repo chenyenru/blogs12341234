@@ -46,7 +46,7 @@ However, the server seems to be shut down 🤧.
 I was greeted with this and it seems so interesting!
 
 - [ ] look into what those plots mean
-- [ ] see what log2 means to the data
+- [x] see what log2 means to the data
 - [ ] find the one that's most useful
 
 
@@ -71,6 +71,8 @@ pheatmap()
 ```
 ![[Pasted image 20211121001334.png|500]]
 #### Doing PCA
+Useful [StatsQuest video](https://www.youtube.com/watch?v=0Jp4gsfOLMs)
+
 Need to first transpose the data so that we see how samples are related (and NOT GENES)
 ![[截圖 2021-11-21 下午1.53.26.png|500]]
 ![[截圖 2021-11-21 下午1.55.47.png|500]]
