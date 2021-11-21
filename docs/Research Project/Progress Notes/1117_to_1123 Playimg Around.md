@@ -98,3 +98,5 @@ design <- model.matrix(~0+sampleInfo$group)
 I didn't understand the ```~0``` that happens before the ```sampleInfo$group```
 
 Thus, I looked up in [StackOverflow](https://stackoverflow.com/questions/12737783/r-tilde-operator-what-does-0a-means) and found that it ensures the y-intercept is 0 -> passes the origin. 
+
+Next, I used dataset gene expression's median as a baseline and cutoff the genes that express below median
