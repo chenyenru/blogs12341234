@@ -69,9 +69,9 @@ I will need to inspect what variables will be useful
 ```r
 pheatmap()
 ```
-![[Pasted image 20211121001334.png|500]]
+![[Pasted image 20211121001334.png]]
 #### Doing PCA
 Need to first transpose the data so that we see how samples are related (and NOT GENES)
-![[截圖 2021-11-21 下午1.53.26.png|500]]
-![[截圖 2021-11-21 下午1.55.47.png|500]]
-![[截圖 2021-11-21 下午2.00.30.png|500]]
+![[截圖 2021-11-21 下午1.53.26.png]]
+![[截圖 2021-11-21 下午1.55.47.png]]
+![[截圖 2021-11-21 下午2.00.30.png]]
