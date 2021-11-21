@@ -1,6 +1,4 @@
 # 1117_to_1123 Playimg Around
-#bioinformatics #research #project #fun #goal
-
 ## Todo
 
 This week:
@@ -192,3 +190,11 @@ Goal for next two week: [[1124_to_1130 SetTopics#Todo]]
 - [ ] look into the journals listed above
 - [ ] draft potential research topics for each of them
 - [ ] **REMEBER!** to evaluate each of them's practicality
+
+
+
+
+
+
+
+#bioinformatics #research #project #fun
