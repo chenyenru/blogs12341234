@@ -50,7 +50,8 @@ However, the server seems to be shut down 🤧.
 ![[截圖 2021-11-16 下午10.46.27.png]]
 I was greeted with this and it seems so interesting!
 
-- [ ] look into what those plots mean
+- [x] look into what those plots mean
+	- It is the volcano plot! The “_Volcano Plot_” function is a common way of visualising the results of a DE analysis. The x axis shows the log-fold change and the y axis is some measure of statistical significance, which in this case is the log-odds, or “B” statistic. A characteristic “volcano” shape should be seen.
 - [x] see what log2 means to the data
 - [ ] find the one that's most useful
 
@@ -143,3 +144,19 @@ topTable(fit2, coef=1)
 
 ### Coping with Outliers
 >It is tempting to discard any arrays which seem to be outliers prior to differential expressions. However, this is done at the expense of sample-size which could be an issue for small experiments. A compromise, which has been ==shown to work well is to calculate _weights_ to define the reliability of each sample.==
+
+The `arrayWeights` function will assign a score to each sample; with a value of 1 implying equal weight. Samples with score less than 1 are down-weights, and samples with scores greater than 1 are up-weighted. Therefore no samples actually need to be removed.
+
+with `arrayWeights`, we can then include it into the fitting
+```
+fit <- lmFit(exprs(gse), design,
+             weights = aw)
+contrasts <- makeContrasts(Tumour - Normal, levels=design)
+fit2 <- contrasts.fit(fit, contrasts)
+fit2 <- eBayes(fit2)
+```
+
+### Further processing and visualisation of DE results
+
+
+![[Pasted image 20211121164418.png|500]]
