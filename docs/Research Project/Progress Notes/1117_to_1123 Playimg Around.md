@@ -4,13 +4,14 @@
 
 This week:
 
-> - [ ] look through other's github analysis for gene
+> - [x] look through other's github analysis for gene
 > - [ ] have a draft of topic
 > - [ ] take at least 2 lectures of each course
-> - [ ] at least complete GEO analysis to get an idea of these analysis
-> - [ ] play with TCGA
->   - [ ] play with GEO
->   - [ ] try the analysis tools listed in the research paper
+>   - [x] 1 lecture
+> - [x] at least complete GEO analysis to get an idea of these analysis
+> - [x] play with TCGA
+>   - [x] play with GEO
+>   - [x] try the analysis tools listed in the research paper
 # Definitions for Genetics 
 ## Functional Genomics [source](https://www.ebi.ac.uk/training/online/courses/functional-genomics-i-introduction-and-design/what-is-functional-genomics/)
 >- **Functional genomics**:  focuses on the ==dynamic expression== of gene products in a specific context
@@ -164,3 +165,29 @@ fit2 <- eBayes(fit2)
 ![[Pasted image 20211121165500.png|500]]
 
 ### Get results from a particular gene
+
+## Using Galaxy to do the same analysis!
+Duration: 1 minutes 😨
+
+![[截圖 2021-11-21 下午6.16.10.png|400]]
+
+Duration: 20 seconds 😨
+
+![[截圖 2021-11-21 下午6.25.04.png|400]]
+![[截圖 2021-11-21 下午6.30.45.png|400]]
+
+# Paper and methods
+## [Integrative Bioinformatics and Functional Analyses of GEO, ENCODE, and TCGA Reveal FADD as a Direct Target of the Tumor Suppressor BRCA1](https://www.mdpi.com/1422-0067/19/5/1458/htm)
+1. Tumor Suppressor [BRCA1](https://www.ntuh.gov.tw/gene-lab-mollab/Fpage.action?muid=4048&fid=3866)
+2. **Identification of Potential BRCA1 Target Genes from ENCODE, GEO, and TCGA Data Analysis**
+
+## Survival Analysis of Cancer Patients with the TCGA Datasets
+1. [Journals](https://www.google.com/search?q=survival+analysis+journal+tcga&client=firefox-b-d&biw=1280&bih=687&ei=vmKaYYG4Eabm2roPq4y9sA4&ved=0ahUKEwiBj9Dp36n0AhUms1YBHStGD-YQ4dUDCA0&uact=5&oq=survival+analysis+journal+tcga&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAELADEBM6CwgAELADEAgQHhATOgQIABATOgYIABAeEBM6BQghEKABSgQIQRgBUNUBWMcfYIEhaAJwAHgAgAHZAYgBkgmSAQU0LjQuMZgBAKABAcgBA8ABAQ&sclient=gws-wiz)
+
+## [Statistically identifying tumor suppressors and oncogenes from pan-cancer genome-sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757952/)
+
+# Next Week
+Goal for next two week: [[1124_to_1130 SetTopics#Todo]]
+- [ ] look into the journals listed above
+- [ ] draft potential research topics for each of them
+- [ ] **REMEBER!** to evaluate each of them's practicality
