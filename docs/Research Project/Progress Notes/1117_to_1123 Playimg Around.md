@@ -100,3 +100,46 @@ I didn't understand the ```~0``` that happens before the ```sampleInfo$group```
 Thus, I looked up in [StackOverflow](https://stackoverflow.com/questions/12737783/r-tilde-operator-what-does-0a-means) and found that it ensures the y-intercept is 0 -> passes the origin. 
 
 Next, I used dataset gene expression's median as a baseline and cutoff the genes that express below median
+
+```r
+# only keeps genes that are expressed in more than 2 samples
+keep <- rowSums(is_expressed) > 2
+table(keep)
+View(keep)
+# now, we subset to only those kept genes
+gse <- gse[keep, ]
+```
+
+```r
+fit <- lmFit(exprs(gse), design)
+head(fit$coefficients)
+```
+
+```bash
+                Normal    Tumour
+ILMN_1343291 16.087740 16.004200
+ILMN_1343295 14.032346 14.699567
+ILMN_1651199  7.786860  7.763617
+ILMN_1651209  8.079803  8.002217
+ILMN_1651210  7.555458  7.659205
+ILMN_1651221  7.816231  7.801812
+```
+
+```r
+contrast <- makeContrasts(Tumor - Normal, levels=design)
+fit2 <- contrasts.fit(fit, contrast)
+
+fit2 <- eBayes(fit2)
+
+View(fit2)
+
+topTable(fit2)
+
+topTable(fit2, coef=1)
+
+### to see the results of the second contrast (if it exists)
+## topTable(fit2, coef=2)
+```
+
+### Coping with Outliers
+>It is tempting to discard any arrays which seem to be outliers prior to differential expressions. However, this is done at the expense of sample-size which could be an issue for small experiments. A compromise, which has been ==shown to work well is to calculate _weights_ to define the reliability of each sample.==
