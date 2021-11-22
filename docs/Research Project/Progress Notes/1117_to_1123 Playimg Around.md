@@ -185,6 +185,11 @@ Duration: 20 seconds 😨
 
 ### [Statistically identifying tumor suppressors and oncogenes from pan-cancer genome-sequencing data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4757952/)
 
+The ones from Emerging Scholars
+![[21-050R3 Selver proof_final.pdf]]
+![[21-099_final.pdf]]
+![[JEI-20-029-fi![[2018.1_analysis_of_second_primary_cancers_final.pdf]]nal.pdf]]
+
 ## Next Week
 Goal for next two week: [[1124_to_1130 SetTopics#Todo]]
 - [ ] look into the journals listed above
