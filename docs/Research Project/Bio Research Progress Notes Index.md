@@ -14,6 +14,12 @@
 - [[Todo]]
 
 ## Textbook Index
+### Genetics Textbook
 - [[Chapter 9 Note (MOLECULAR STRUCTURE OF DNA AND RNA)]]
+### Openstax 
 - [[DNA Structure and Sequencing]]
+
+### Understanding Bioinformatics Textbook
+- [[Textbook - Understanding Bioinformatics]]
+
 

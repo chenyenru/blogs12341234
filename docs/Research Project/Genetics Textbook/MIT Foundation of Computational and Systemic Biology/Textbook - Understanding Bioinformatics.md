@@ -28,3 +28,6 @@ Next-generation sequencing (NGS), also known as *high-throughput sequencing*, is
 ##  Sanger vs NGS
 ![[截圖 2021-11-28 下午12.59.42.png]]
 ![[截圖 2021-11-28 下午1.00.25.png]]
+
+## DNA is the information store, but RNA is the messenger
+![[截圖 2021-11-28 下午1.11.30.png]]
