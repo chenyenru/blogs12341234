@@ -5,7 +5,8 @@ This week:
 
 > - [x] look through other's github analysis for gene
 > - [ ] have a draft of topic
-> - [ ] take at least 2 lectures of each course
+> - [x] take at least 2 lectures of each course
+>   - with an asterisk(*) It takes very long to digest and understand one lecture. I'll have to look up many terms as the explanation in the lecture was too hard.
 >   - [x] 1 lecture
 > - [x] at least complete GEO analysis to get an idea of these analysis
 > - [x] play with TCGA

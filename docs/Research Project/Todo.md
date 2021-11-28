@@ -1,4 +1,0 @@
-- [x] [[20211008 Look into high school journals]]
-- [x] p53 and also other miRNAs
-- [x] know more a bit about what those bioinformatics tools are for
-- [x] Look into the resources Julia gave and have my own notes, 

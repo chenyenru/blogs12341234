@@ -13,3 +13,18 @@ RNA Polymerase
 ![[截圖 2021-11-27 下午9.54.42.png]]
 Purine and Pyrimidine (with ATCGs)
 ![[截圖 2021-11-27 下午11.16.47.png]]
+
+## Next Generation Sequencing
+Next-generation sequencing (NGS), also known as *high-throughput sequencing*, is the ==catch-all term used to describe a number of different modern sequencing technologies==. These technologies allow for sequencing of DNA and RNA much more quickly and cheaply than the previously used Sanger sequencing, and as such revolutionised the study of genomics and molecular biology. 
+
+### Advantages
+1. does not require *priori* (先驗的) knowledge of the genome
+2. offers single-nucleotide resolution
+3. higher dynamic range of signal
+4. requires less DNA/RNA
+5. higher reproducibility
+
+
+##  Sanger vs NGS
+![[截圖 2021-11-28 下午12.59.42.png]]
+![[截圖 2021-11-28 下午1.00.25.png]]

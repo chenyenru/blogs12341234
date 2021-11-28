@@ -12,3 +12,8 @@
 
 ## Todo
 - [[Todo]]
+
+## Textbook Index
+- [[Chapter 9 Note (MOLECULAR STRUCTURE OF DNA AND RNA)]]
+- [[DNA Structure and Sequencing]]
+
