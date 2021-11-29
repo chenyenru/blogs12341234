@@ -67,3 +67,9 @@ We screened 52 NSCLC tissue specimens and 8 normal specimens from the TCGA datab
 	- Bioinformatics prediction of differential miRNAs in sarcoma
 	- Bioinformatics Analysis of (_Gene Name_) as a Prognostic Marker for 
 2. Clarify _a gene_ as a prognostic marker
+
+
+download data and see see
+
+- choose method
+- find other datasets
