@@ -9,9 +9,9 @@
 ## Progress Notes
 - [[1101_to_1116 Planning]]
 - [[1117_to_1123 Playimg Around]]
+- [[1124_to_1130 SetTopics]]
 
 ## Todo
-- [[Todo]]
 
 ## Textbook Index
 ### Genetics Textbook
@@ -21,5 +21,6 @@
 
 ### Understanding Bioinformatics Textbook
 - [[Textbook - Understanding Bioinformatics]]
+
 
 

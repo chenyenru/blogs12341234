@@ -1,9 +1,9 @@
 ## Todo
 
 This week:
->- [ ] look into the journals listed above
->- [ ] draft potential research topics for each of them
->- [ ] **REMEBER!** to evaluate each of them's practicality
+>- [x] look into the journals listed above
+>- [x] draft potential research topics for each of them
+>- [x] **REMEBER!** to evaluate each of them's practicality
 
 ## Paper and methods (**from last time**)
 
@@ -43,3 +43,27 @@ We screened 52 NSCLC tissue specimens and 8 normal specimens from the TCGA datab
 - volcano maps (hehe used it last time)
 #### 2.3. ROC diagnosis and survival curve
 #### 2.4. GO and KEGG pathway enrichment analysis
+
+### [Bioinformatics Analysis of ZBTB16 as a Prognostic Marker for Ewing’s Sarcoma](https://www.hindawi.com/journals/bmri/2021/1989917/)
+- _Objective_. The purpose of this study is to identify novel biomarkers for the prognosis of **Ewing’s sarcoma** based on bioinformatics analysis.
+- _Methods_. The ==GSE63157 and GSE17679 datasets== contain patient and healthy control microarray data that were downloaded from the Gene Expression Omnibus (**GEO**) database and analyzed through R language software to obtain differentially expressed genes (**DEGs**). Firstly, Gene Ontology (**GO**) and Kyoto Encyclopedia of Genes and Genomes (**KEGG**) functional enrichment, protein-protein interaction (**PPI**) networks, and Cytoscape Molecular Complex Detection (**MCODE**) plug-in were then used to compute the highest scores of the module. After survival analysis, the hub genes were lastly obtained from the two module genes. 
+- _Results_. A total of 1181 DEGs were identified from the two GSEs. Through MCODE and survival analysis, we obtain 53 DEGs from the module and 29 overall survival- (OS-) related genes. *ZBTB16 was the only downregulated gene after Venn diagrams (hmm, seems plausible)* . **Survival analysis** indicates that there was a significant correlation between the high expression of ZBTB16 and the OS of Ewing’s sarcoma (ES), and the low expression group had an unfavorable OS when compared to the high expression group.
+- _Conclusions_. High expression of ZBTB16 may serve as a predictor biomarker of poor prognosis in ES patients.
+### [Bioinformatics Analysis of Differentially Expressed Genes and miRNAs in Low-Grade Gliomas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7649870/)
+
+### [Identification of miR-18a-5p as an oncogene and prognostic biomarker in RCC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6038077/)
+
+### [Comprehensive bioinformatics analysis of the TP53 signaling pathway in Wilms’ tumor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607069/)
+
+- 
+- prognostic role of TP53 in WT were investigated using [cBioPortal](https://www.cbioportal.org/)
+- 
+
+
+
+## Potential Topics
+1. [PRCC](https://portal.gdc.cancer.gov/genes/ENSG00000143294) papillary renal cell carcinoma (translocation-associated)
+	- Bioinformatics prediction of differential miRNAs in papillary renal cell carcinoma
+	- Bioinformatics prediction of differential miRNAs in sarcoma
+	- Bioinformatics Analysis of (_Gene Name_) as a Prognostic Marker for 
+2. Clarify _a gene_ as a prognostic marker

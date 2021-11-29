@@ -31,3 +31,9 @@ Next-generation sequencing (NGS), also known as *high-throughput sequencing*, is
 
 ## DNA is the information store, but RNA is the messenger
 ![[截圖 2021-11-28 下午1.11.30.png]]
+
+
+## Different types of RNAs
+![RNA- Properties, Structure, Types and Functions](https://microbenotes.com/wp-content/uploads/2018/08/RNA-Properties-Structure-Types-and-Functions.jpg)
+
+![Difference Between mRNA and tRNA | Compare the Difference Between Similar  Terms](https://i1.wp.com/www.differencebetween.com/wp-content/uploads/2012/07/Difference-Between-mRNA-and-tRNA-fig-2.png)

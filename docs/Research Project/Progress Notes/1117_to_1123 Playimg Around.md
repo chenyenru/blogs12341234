@@ -3,8 +3,8 @@
 
 This week:
 
-> - [x] look through other's github analysis for gene
-> - [ ] have a draft of topic
+> - [x] look through other's GitHub analysis for gene
+> - [ ] have a draft of topics
 > - [x] take at least 2 lectures of each course
 >   - with an asterisk(*) It takes very long to digest and understand one lecture. I'll have to look up many terms as the explanation in the lecture was too hard.
 >   - [x] 1 lecture
@@ -193,11 +193,11 @@ The ones from Emerging Scholars
 
 ## Next Week
 Goal for next two week: [[1124_to_1130 SetTopics#Todo]]
-- [ ] look into the journals listed above
+- [x] look into the journals listed above
 
-- [ ] draft potential research topics for each of them
+- [x] draft potential research topics for each of them
 
-- [ ] **REMEBER!** to evaluate each of them's practicality
+- [x] **REMEBER!** to evaluate each of them's practicality
 
 
 
