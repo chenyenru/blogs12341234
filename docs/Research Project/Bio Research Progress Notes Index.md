@@ -22,5 +22,8 @@
 ### Understanding Bioinformatics Textbook
 - [[Textbook - Understanding Bioinformatics]]
 
+### MIT Computational Biology Textbook
+- [[1 - Introduction Course overview, biology, algorithms, machine learning]]
+
 
 

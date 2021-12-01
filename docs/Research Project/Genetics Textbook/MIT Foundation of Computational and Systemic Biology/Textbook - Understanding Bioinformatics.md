@@ -29,6 +29,11 @@ Next-generation sequencing (NGS), also known as *high-throughput sequencing*, is
 ![[截圖 2021-11-28 下午12.59.42.png]]
 ![[截圖 2021-11-28 下午1.00.25.png]]
 
+ Ilumina Sequencing:
+ 1. let it denature
+ 2.  cycle through the 4 NTPs
+ 3.  color showing shows the sequence
+
 ## DNA is the information store, but RNA is the messenger
 ![[截圖 2021-11-28 下午1.11.30.png]]
 
