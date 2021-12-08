@@ -30,6 +30,7 @@ Examples of biological questions that can be tackled using functional genomics e
 -   Why are some cultivars of rice more resistant to drought than others?
 -   What makes some individuals more susceptible to skin allergies?
 
+[[Analysis Tools for TCGA]]
 ### Differential Gene Expression Analysis [source](https://www.ebi.ac.uk/training/online/courses/functional-genomics-ii-common-technologies-and-data-analysis-methods/rna-sequencing/performing-a-rna-seq-experiment/data-analysis/differential-gene-expression-analysis/)
 - taking the normalised read count data and performing statistical analysis to discover quantitative changes in expression levels between experimental groups. For example, we use statistical testing to decide whether, for a given gene, an observed difference in read counts is significant, that is, whether it is greater than what would be expected just due to natural random variation.
 

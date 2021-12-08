@@ -1,15 +1,19 @@
 #life #bio #bioinformatics #major #research #goal 
 
 ## Meeting Notes
-- [[20210928 Opening]]
+- [[20210928 Opening]] ^0bcdb3
 - [[20211008 Look into high school journals]]
 - [[20211012 Meeting with Michael about further research]]
+
+[meeting times](https://docs.google.com/spreadsheets/d/1LP7iReCgUX04sFIZl7Jh3l_JwyVIyS4HfVcJXRDgWfE/edit?usp=sharing)
 
 
 ## Progress Notes
 - [[1101_to_1116 Planning]]
 - [[1117_to_1123 Playimg Around]]
 - [[1124_to_1130 SetTopics]]
+- [[1201_to_1208 Reading Papers for Topics]]
+- [[1209_to_1215 Analysis]]
 
 ## Todo
 
@@ -22,8 +26,14 @@
 ### Understanding Bioinformatics Textbook
 - [[Textbook - Understanding Bioinformatics]]
 
+### MIT Intro to Biology
+- [[Lecture 1 Welcome Introduction and Course Organization]]
+
 ### MIT Computational Biology Textbook
 - [[1 - Introduction Course overview, biology, algorithms, machine learning]]
+
+### MIT Deep Learning with Genomics
+- [[2 - Machine Learning Foundations]]
 
 
 

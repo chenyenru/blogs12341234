@@ -74,4 +74,4 @@ download data and see see
 - choose method
 - find other datasets
 
-[[1130_to_1208]]
+[[blogs/docs/Research Project/Progress Notes/1201_to_1208 Reading Papers for Topics]]
