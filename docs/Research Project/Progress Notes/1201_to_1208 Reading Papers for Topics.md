@@ -32,5 +32,7 @@ Goal for next two week: [[1209_to_1215 Analysis]]
 	- [ ] TCGA?
 	- [ ] GEO?
 
+list down data requirements
+
 
 

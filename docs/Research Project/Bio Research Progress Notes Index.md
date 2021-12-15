@@ -34,6 +34,7 @@
 
 ### MIT Deep Learning with Genomics
 - [[2 - Machine Learning Foundations]]
+- [[5 - Machine Learning in Life Sciences]]
 
 
 
