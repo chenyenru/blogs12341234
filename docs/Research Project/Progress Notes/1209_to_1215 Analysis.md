@@ -42,6 +42,6 @@ SHoot! rp11 is [unnamed gene](https://www.biostars.org/p/51456/)
 ### KEGG
 - failed, don't know what this means
 - ![[截圖 2021-12-20 下午11.52.32.png]]
-### GEO
+### Gene Ontology
 - also failed, don't know what this means
 - ![[截圖 2021-12-20 下午11.53.36.png]]
