@@ -22,7 +22,7 @@ Conclusion: determined to do an analysis on a miRNA and see if it has the potent
 - **miR-19b-3p in the tumorigenesis of colon cancer**
 
 ## Next Week
-Goal for next two week: [[1209_to_1215 Analysis]]
+Goal for next two week: [[1209_to_1221 Analysis]]
 - [ ] Do analysis 
 	- [ ] Gene Ontology
 	- [ ] Kyoto Encyclopedia of Genes and Genomes(KEGG)

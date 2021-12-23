@@ -2,14 +2,19 @@
 **miR-19b-3p in the tumorigenesis of colon cancer**
 **[RP11-40C6.2](http://gepia.cancer-pku.cn/detail.php?gene=RP11-40C6.2) in the tumorigenesis of colon cancer**
 This week:
-- [ ] Do analysis 
-	- [ ] Gene Ontology
-	- [ ] Kyoto Encyclopedia of Genes and Genomes(KEGG)
-	- [ ] PANTHER Pathway analysis
-	- [ ] Disease ontology (DO) analysis
-- [ ] Also find other analysis methods
-	- [ ] TCGA?
-	- [ ] GEO?
+- [x] Do analysis 
+	- [x] Gene Ontology
+		- lack knowledge in understanding the functions listed
+	- [x] Kyoto Encyclopedia of Genes and Genomes(KEGG)
+		- needs more knowledge
+	- [x] PANTHER Pathway analysis
+		- does not apply
+	- [x] Disease ontology (DO) analysis
+		- does not apply
+- [x] Also find other analysis methods
+	- [x] TCGA?
+	- [x] GEO?
+		- can't find
 
 ### What is the difference between GO and KEGG analysis?
 GO stands for Gene Ontology and as the name suggests, it **annotates genes** using an ontology. KEGG, Panther and other "pathway" databases group genes into "pathways" which are basically lists of genes participating in the same biological process
