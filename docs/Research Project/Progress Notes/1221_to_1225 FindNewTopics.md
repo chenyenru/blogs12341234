@@ -37,6 +37,9 @@ Lol. Neutral
 
 ## BERT Chinese! 
 [Hugging Face Page for bert-base-chinese](https://huggingface.co/bert-base-chinese?text=%E5%B7%B4%E9%BB%8E%E6%98%AF%5BMASK%5D%E5%9B%BD%E7%9A%84%E9%A6%96%E9%83%BD%E3%80%82)
+[# Google BERT中文应用之微博情感极性分析](https://zhuanlan.zhihu.com/p/55856680)
+- 用微博的情感資料集做的
+- **限制**：目前的中文資料集還非常少
 
 # 空氣品質
 https://sci-hub.se/https://ieeexplore.ieee.org/document/9418342
