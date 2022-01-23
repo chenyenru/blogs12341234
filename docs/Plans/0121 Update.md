@@ -1,4 +1,4 @@
-# 0121 Consultation
+# 0121 Update
 
 ## TODO
 - [x] business proposal ideation
