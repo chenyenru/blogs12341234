@@ -16,6 +16,8 @@
 - [[1209_to_1221 Analysis]]
 - [[1221_to_1225 FindNewTopics]]
 - [[1226_to_0105 AirQualityAnalysis]]
+- [[0106_to_0115 AirQualityActualAnalysis]]
+- [[0115_to_0118 Multivariate Analysis]]
 
 ## Todo
 
