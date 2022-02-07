@@ -1,4 +1,4 @@
-#life #bio #bioinformatics #major #research #goal 
+#life #bio #bioinformatics #major #research #goal #index
 
 ## Meeting Notes
 - [[20210928 Opening]] ^0bcdb3
@@ -18,7 +18,7 @@
 - [[1226_to_0105 AirQualityAnalysis]]
 - [[0106_to_0115 AirQualityActualAnalysis]]
 - [[0115_to_0118 Multivariate Analysis]]
-
+- [[0119_to_0208 Finding Variables]]
 ## Todo
 
 ## Textbook Index
