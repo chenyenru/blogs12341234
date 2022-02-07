@@ -48,17 +48,17 @@
 	- Statistics 4
 
 ## Transition Projects
-- [ ] 1. make a timer with unity
-- [ ] 2. make a todo list with unity
-- [ ] 3. make a timer + todo list
-- [ ] 4. make a pomodoro timer with unity 
-	- [ ] [github resources](https://github.com/search?q=unity+pomodoro)
-- [ ] 5. publish the pomodoro timer online
-	- [ ] Web
-	- [ ] App Store
-- [ ] 6. add ad walls
+- [x] 1. make a timer with unity
+- [x] 2. make a todo list with unity
+- [x] 3. make a timer + todo list
+- [x] 4. make a pomodoro timer with unity 
+	- [x] [github resources](https://github.com/search?q=unity+pomodoro)
+- [x] 5. publish the pomodoro timer online
+	- [x] Web
+	- [x] App Store
+~~- [ ] 6. add ad walls
 	- [ ] Unity Ads or
-	- [ ] Google Ads
+	- [ ] Google Ads~~
 - [ ] 7. design characters
 - [ ] 8. make pomodoro timer with characters
 - [ ] 9. make rpg game

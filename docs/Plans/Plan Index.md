@@ -6,3 +6,6 @@
 
 # Plan
 [[0121 Update#Transition Projects]]
+
+- [x] Learn how to pick colors
+	- [x] [[Color Theory]]
