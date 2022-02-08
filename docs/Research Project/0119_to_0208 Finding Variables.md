@@ -8,6 +8,8 @@
 <iframe src="https://govstat.taichung.gov.tw/DgbasWeb/statfile.aspx?mode=1&cateno=03#" height=500px width=100%></frame>
 
 <iframe src="https://statdb.dgbas.gov.tw/pxweb/dialog/statfile9.asp" height=500px width=100%></iframe>
+
+<iframe src="https://data.gov.tw/dataset/29947" height=500px width=100%></iframe>
 # AQI
 First up, what is AQI?
 ![基於備選傳感器和預測模型的空氣質量試驗](https://aqicn.org/air/experiments/images/aqiscale.png)
@@ -89,6 +91,10 @@ relevant background info, the problem statement, and our proposed research. And 
 This is the topic I'm most interested in because the Taichung Trash Incineration Power Plant is actually very close to me.
 
 ### Introduction
-Taichung has one of the largest thermal power station in the world, where the
+The balance between economy and healthy has long been a controversial issue, where to achieve one often means the loss of another. And this question is specifically focused on in Taichung, Taiwan, containing one of the largest thermal power plants in the world. The study gathered data from Taichung Government
+
+
+#### Resources
+Chen, Tase-Lung. “Air Pollution Caused by Coal-Fired Power Plant in Middle Taiwan.” _International Journal of Energy and Power Engineering_, vol. 6, no. 6, 15 Nov. 2017, p. 121., https://doi.org/10.11648/j.ijepe.20170606.15.
 # Ending words
 I feel like my topic has slowly turned on finding independent variables to predict air quality index to _finding dependent variables that may be affected by air quality index._ Not sure if this is a good thing but I'm satisfied now. 
