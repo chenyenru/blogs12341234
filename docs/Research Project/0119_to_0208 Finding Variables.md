@@ -1,8 +1,13 @@
 - [ ] Multivariate Regression
-	- [ ] Research on Variables
-	- [ ] Confounding Variables
-	- [ ] research about monthly vs. yearly data (pros and cons of summarizing monthly data into annual data or repeat the annual data 12 times as monthly data)
+	- [x] Research on Variables
+	- [x] Confounding Variables
+	- [x] research about monthly vs. yearly data (pros and cons of summarizing monthly data into annual data or repeat the annual data 12 times as monthly data)
 	- [ ] pick one of the 題目 you come up with, the one you like the most, and write a background/introduction paragraph. The paragraph should present the relevant background info, the problem statement, and our proposed research. And you should also cite sources whenever possible.
+
+# Data Source
+<iframe src="https://govstat.taichung.gov.tw/DgbasWeb/statfile.aspx?mode=1&cateno=03#" height=500px width=100%></frame>
+
+<iframe src="https://statdb.dgbas.gov.tw/pxweb/dialog/statfile9.asp" height=500px width=100%></iframe>
 # AQI
 First up, what is AQI?
 ![基於備選傳感器和預測模型的空氣質量試驗](https://aqicn.org/air/experiments/images/aqiscale.png)
@@ -28,26 +33,23 @@ First up, what is AQI?
 - 台中市
 	- 主要死因
 		- 氣管、支氣管、肺癌
->colnames(merged)
- [1] "year"                                                   
- [2] "死亡人數-主要死因_癌症(人)_男"                          
- [3] "死亡人數-主要死因_癌症(人)_女"                          
- [4] "死亡人數-主要死因_肺炎(人)_男"                          
- [5] "死亡人數-主要死因_肺炎(人)_女"                          
- **[6] "死亡率-主要癌症_氣管、支氣管和肺癌_死亡率(人/十萬人)_男"
- [7] "死亡率-主要癌症_氣管、支氣管和肺癌_死亡率(人/十萬人)_女"**
- [8] "標準化死亡率-主要死因_總計(人/十萬人)_男"               
- [9] "標準化死亡率-主要死因_總計(人/十萬人)_女"               
-[10] "標準化死亡率-主要死因_癌症(人/十萬人)_男"               
-[11] "標準化死亡率-主要死因_癌症(人/十萬人)_女"               
-[12] "空氣中總懸浮微粒濃度"                                   
-[13] "細懸浮微粒手動監測(PM2.5)濃度值"                        
-[14] "空氣中臭氧濃度"                                         
-[15] "二氧化硫含量"                                           
-[16] "AQI(PSI)>100之日數比率"      
+ [1] "year"                                               
+ [2] "population_density"                                 
+ [3] "空氣中總懸浮微粒濃度"                               
+ [4] "細懸浮微粒手動監測.PM2.5.濃度值"                    
+ [5] "空氣中臭氧濃度"                                     
+ [6] "二氧化硫含量"                                       
+ [7] "AQI.PSI..100之日數比率"                             
+ [8] "死亡人數.主要死因_癌症.人."                         
+ [9] **"死亡人數.主要死因_肺炎.人."**                         
+[10] **"死亡率.主要癌症_氣管.支氣管和肺癌_死亡率.人.十萬人."**
+[11] "標準化死亡率.主要死因_總計.人.十萬人."              
+[12] "標準化死亡率.主要死因_癌症.人.十萬人."              
+[13] "教育程度_15歲以上人口教育程度_研究所..."            
+[14] **"教育程度_15歲以上人口教育程度_大學..."**
 
-6, 7 are the dependent variables i wish to investigate on
-and other variables are used as **confounding variables**
+**bolded words** are the **dependent variables** i wish to investigate on
+and other variables are used as confounding variables
 - 
 # Monthly vs Yearly Data
 ![[withers2015.pdf]]
@@ -58,3 +60,30 @@ According to Withers,
 Thus, _I'll use annual means because my data contains more than 5 years of records_
 # Topic
 I'm interested in whether air quality index 
+
+Residuals:
+      1       2       3       4       5       6       7       8 
+-0.2436 -0.1715  1.0974 -1.5319 -2.6774  1.7966  0.7313  0.9991 
+
+Coefficients:
+                                        Estimate Std. Error t value Pr(>|t|)
+(Intercept)                           159.679158  76.663727   2.083    0.129
+標準化死亡率.主要死因_癌症.人.十萬人.  -0.419007   0.259843  -1.613    0.205
+空氣中總懸浮微粒濃度                    0.068962   0.151162   0.456    0.679
+population_density                      0.003346   0.008313   0.402    0.714
+AQI.PSI..100之日數比率                 -0.383627   0.234252  -1.638    0.200
+
+Residual standard error: 2.278 on 3 degrees of freedom
+Multiple R-squared:  0.578,	Adjusted R-squared:  0.01537 
+F-statistic: 1.027 on 4 and 3 DF,  p-value: 0.5118
+
+``` ad-note
+relevant background info, the problem statement, and our proposed research. And you should also cite sources whenever possible.
+```
+## Topic 1:  **死亡率.主要癌症_氣管.支氣管和肺癌_死亡率.人.十萬人.**
+
+
+## Topic 2:  **死亡人數.主要死因_肺炎.人.**   
+## Topic 3: **教育程度_15歲以上人口教育程度_大學...**
+
+
