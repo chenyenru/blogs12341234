@@ -85,5 +85,10 @@ relevant background info, the problem statement, and our proposed research. And 
 
 ## Topic 2:  **死亡人數.主要死因_肺炎.人.**   
 ## Topic 3: **教育程度_15歲以上人口教育程度_大學...**
+## Topic 4: **台灣電力公司_火力發電_溫室氣體排放量**
+This is the topic I'm most interested in because the Taichung Trash Incineration Power Plant is actually very close to me.
 
-
+### Introduction
+Taichung has one of the largest thermal power station in the world, where the
+# Ending words
+I feel like my topic has slowly turned on finding independent variables to predict air quality index to _finding dependent variables that may be affected by air quality index._ Not sure if this is a good thing but I'm satisfied now. 
