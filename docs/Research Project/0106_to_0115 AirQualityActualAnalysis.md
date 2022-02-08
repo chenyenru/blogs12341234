@@ -1,10 +1,3 @@
-![[Jiang_2021_J._Phys. _Conf._Ser._1813_012031.pdf]]
-
-![[openair.pdf]]
-
-
-Current goal:
-1. Denoise 
-2. Fit a model
-3. evaluate the model
-4. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3c7110bc784316eaccb4ff459c1939af669b0563bd9f07b76c489e94d21f652
+size 139

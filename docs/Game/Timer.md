@@ -1,7 +1,3 @@
-First project, a timer with Unity :).
-
-I am following tutorial from this [article](https://gamedevbeginner.com/how-to-make-countdown-timer-in-unity-minutes-seconds/#timer) and [video](https://www.youtube.com/watch?v=HmHPJL-OcQE&t=560s)
-![[截圖 2022-01-23 下午5.25.18.png]]
-![[截圖 2022-01-23 下午5.39.45.png]]
-
-[Unity UI Rounded Corners](https://github.com/kirevdokimov/Unity-UI-Rounded-Corners)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e435b5fb8937e5acf39951c979296381906cfd383b5dc8ca547982030aa0f29
+size 403

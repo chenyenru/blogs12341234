@@ -1,3 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5fIy19GXAxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-![[截圖 2021-12-15 下午9.02.24.png]]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f53ad6ed4554a8b122573c718b2db104a5f97444b2a6debb067126a62617a38
+size 290

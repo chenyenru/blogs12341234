@@ -1,3 +1,3 @@
-so I've successfully combined 
-![[截圖 2021-12-29 下午8.48.38.png]]
-Tableau is really my good friend
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bcb19956355219277f61ef7947406071a91de6aac4ac1fa521ef9a89204b3ea
+size 105

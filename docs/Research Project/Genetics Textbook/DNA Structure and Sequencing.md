@@ -1,2 +1,3 @@
-![Illustration depicts the structure of a nucleoside, which is made up of a pentose with a nitrogenous base attached at the 1 prime position. There are two kinds of nitrogenous bases: pyrimidines, which have one six-membered ring, and purines, which have a six-membered ring fused to a five-membered ring. Cytosine, thymine, and uracil are pyrimidines, and adenine and guanine are purines. A nucleoside with a phosphate attached at the 5 prime position is called a mononucleotide. A nucleoside with two or three phosphates attached is called a nucleotide diphosphate or nucleotide triphosphate, respectively.](https://openstax.org/apps/archive/20210823.155019/resources/0854e0de8763dede6278f5d4c9f1f9e38d98296f)
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:51fd242fe6428f41eb0fbaf0f947f7feca832b4be57eae8b5f6575eea51faa2d
+size 713
